@@ -15,7 +15,7 @@
     <script type="text/javascript" src="/js/user.js"></script>
     <script type="text/javascript" src="/js/question.js"></script>
     <script type="text/javascript" src="/js/answer.js"></script>
-    <title>晓凤</title>
+    <title>问答</title>
 </head>
 <body>
 <div class="navbar clearfix">
