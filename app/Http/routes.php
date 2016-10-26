@@ -17,13 +17,13 @@ function user_ins(){
     return new App\user;
 };
 function question_ins(){
-    return new App\question;
+    return new App\Question;
 }
 function answer_ins(){
-    return new App\answer;
+    return new App\Answer;
 }
 function comment_ins(){
-    return new App\comment;
+    return new App\Comment;
 }
 function paginate($page=1,$limit=15){
     $limit=$limit?:16;
